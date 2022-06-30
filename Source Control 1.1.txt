@@ -1,0 +1,14 @@
+Link: https://github.com/github/gitignore
+Description: List of templates for a gitignore. Will be very useful as I expand my languages and sources of code like Unity or Unreal. 
+
+Link: https://github.com/Pathoschild/StardewMods
+Description: Big repo of Stardew Valley Mods. Plan on looking at them to better understand how to write mods and contribute to a couple of the easier to work with mods.
+
+Link: https://github.com/tiltedphoques/TiltedOnline
+Description: Repo for an online mode for Fallout 4. This will help me understand networking for video games. Plan on trying to become experienced enough to help this solve issues for this mod.
+
+Link: https://github.com/commodoremartin/SkyrimOnline
+Description: Repo for an online mode for Skyrim. This will also help me learn game networking. I think this mod does not allow outside help so only a learning resource.
+
+Link: https://github.com/FlashShifter/StardewValleyExpanded
+Description: Repo for a complete overhaul of Stardew Valley. Not only does this create new gameplay and story but also enhances a ton of the core mechanics of the game. This will be an excellent learning resource on home to go beyond just simple mods. This is almost a new game.
